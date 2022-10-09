@@ -10,5 +10,4 @@
 
 <img width="637" alt="Screen Shot 2022-10-09 at 18 38 01" src="https://user-images.githubusercontent.com/103945243/194756262-fc9bac69-2215-4e3b-acae-71416d3b27dc.png">
 
-<img width="379" alt="Screen Shot 2022-10-09 at 18 43 21" src="https://user-images.githubusercontent.com/103945243/194756279-f49ed2d3-c84a-4d76-a1f6-f277ceb31594.png">
-<img width="379" alt="Screen Shot 2022-10-09 at 18 40 46" src="https://user-images.githubusercontent.com/103945243/194756292-aea026f5-2273-4767-8f22-485dc2d4dda3.png">
+<img width="379" alt="Screen Shot 2022-10-09 at 18 43 21" src="https://user-images.githubusercontent.com/103945243/194756279-f49ed2d3-c84a-4d76-a1f6-f277ceb31594.png"> <img width="379" alt="Screen Shot 2022-10-09 at 18 40 46" src="https://user-images.githubusercontent.com/103945243/194756292-aea026f5-2273-4767-8f22-485dc2d4dda3.png">
