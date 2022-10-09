@@ -1,5 +1,6 @@
 # Mobile-Game-Dev-2nd-Game
-Simple driving Game
+Simple driving Game with Portrait perspective
+
 
 <img width="601" alt="Screen Shot 2022-10-09 at 18 36 20" src="https://user-images.githubusercontent.com/103945243/194756180-909d5ad8-9815-4fc5-9a99-f4ae1b02409b.png">
 
